@@ -1,5 +1,7 @@
 # GitHub Docs <!-- omit in toc --> 
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=472705779&machine=largePremiumLinux&devcontainer_path=.devcontainer%2Fteam-2%2Fdevcontainer.json&location=WestEurope)
+
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
